@@ -4,4 +4,4 @@ require "./main_menu.rb"
 @account_list = {}
 @id_count = 1
 
-main_menu
+main_menu 
