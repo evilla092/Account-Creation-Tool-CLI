@@ -9,7 +9,7 @@ def account_creation
     account_details["first_name"] = gets.chomp
     puts "Enter your last name:"
     account_details["last_name"] = gets.chomp
-    puts "Enter you Date of Birth"
+    puts "Enter you Date of Birth in month day, year format "
     account_details["dob"] = gets.chomp
     puts "Enter your username"
     account_details["username"] = gets.chomp
